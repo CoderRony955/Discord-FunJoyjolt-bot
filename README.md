@@ -25,6 +25,7 @@ Discord FunBot is a playful and engaging bot designed to bring joy and inspirati
 ![Screenshot of the bot](https://github.com/CoderRony955/Discord-FunJoyjolt-bot/blob/master/screenshot-bot.png)
 
 ## Installation
+### Clone the Repository
 ``` sh
 git clone https://github.com/CoderRony955/Discord-FunJoyjolt-bot.git
 ```
