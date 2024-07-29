@@ -2,6 +2,8 @@
 
 Discord FunBot is a playful and engaging bot designed to bring joy and inspiration to your Discord server. It tells jokes, shares thoughts on various topics, and offers motivational quotes. Whether you're looking to lighten the mood or spark some inspiration, FunBot has you covered.
 
+![Screenshot of the bot](https://github.com/CoderRony955/Discord-FunJoyjolt-bot/blob/master/funbot/funbot.jpg)
+
 ### Jokes
 - **/joke or /tell me a joke:** Tells a random joke.
 - **/joke of the day:** Shares the joke of the day.
