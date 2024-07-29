@@ -10,7 +10,7 @@ Discord FunBot is a playful and engaging bot designed to bring joy and inspirati
 - **/thought [topic]:** Tells thought on specific topic.
 - **/motivation about [query]:** Provides a motivational quote based on the given query.
 ### Help
-- **%help:** Displays a beautiful format with all the commands and their functionalities.
+- **/help:** Displays a beautiful format with all the commands and their functionalities.
 
 ### Example Commands
 - /joke
