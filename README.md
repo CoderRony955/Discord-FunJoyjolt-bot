@@ -6,7 +6,7 @@ Discord FunBot is a playful and engaging bot designed to bring joy and inspirati
 - **/joke or /tell me a joke:** Tells a random joke.
 - **/joke of the day:** Shares the joke of the day.
 - **/thought [topic]:** Tells thought on specific topic.
-- **%motivation about [query]:** Provides a motivational quote based on the given query.
+- **/motivation about [query]:** Provides a motivational quote based on the given query.
 ### Help
 - **%help:** Displays a beautiful format with all the commands and their functionalities.
 
