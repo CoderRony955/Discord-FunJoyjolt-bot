@@ -35,8 +35,11 @@ Discord FunBot is a playful and engaging bot designed to bring joy and inspirati
 - Copy the bot token.
   
 ### Install the discord.py library using pip:
-```pip install discord.py```
-#### - Start writing your bot code in python and Replace 'YOUR_BOT_TOKEN' and then Run the Bot Execute your Python script to start the bot: ``` python bot.py ```.
+``` sh
+pip install discord.py
+```
+#### - Start writing your bot code in python and Replace 'YOUR_BOT_TOKEN' and then Run the Bot Execute your Python script to start the bot:
+``` python bot.py ```.
 #### - Invite the Bot to a Server Generate an OAuth2 URL in the Discord Developer Portal to invite your bot to your server. Then test your bot.
 
 
