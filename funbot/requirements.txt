@@ -1,6 +1,0 @@
-discord.py
-discord.py commands
-random module
-rquest module
-json
-os
