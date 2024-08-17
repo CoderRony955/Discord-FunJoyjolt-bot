@@ -49,11 +49,15 @@ git clone https://github.com/CoderRony955/Discord-FunJoyjolt-bot
 pip install -r requirements.txt
 ```
 
-
-
 #### - Start writing your bot code in python and Replace 'YOUR_BOT_TOKEN' and then Run the Bot Execute your Python script to start the bot:
 ``` python bot.py ```.
 #### - Invite the Bot to a Server Generate an OAuth2 URL in the Discord Developer Portal to invite your bot to your server. Then test your bot.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/CoderRony955/Discord-FunJoyjolt-bot/blob/master/LICENSE) file for more details.
+
+
 
 
 ## 📲 Get in Touch
